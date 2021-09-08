@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@zxy9035 
-VickScarlet
-/
-lifeRestart
-116
-6.2k1.4k
-Code
-Issues
-129
-Pull requests
-18
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
-lifeRestart/data/talents.json
-@VickScarlet
-VickScarlet update data
-Latest commit 3f3d6dd 19 hours ago
- History
- 1 contributor
-1173 lines (1173 sloc)  25.7 KB
-  
 {
     "1001": {
         "id": "1001",
